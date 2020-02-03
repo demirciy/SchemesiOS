@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C903BF7423CF93B200D6CA0E"
-               BuildableName = "ScehemesExampleiOS.app"
+               BuildableName = "Release.app"
                BlueprintName = "ScehemesExampleiOS"
                ReferencedContainer = "container:ScehemesExampleiOS.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C903BF7423CF93B200D6CA0E"
-            BuildableName = "ScehemesExampleiOS.app"
+            BuildableName = "Release.app"
             BlueprintName = "ScehemesExampleiOS"
             ReferencedContainer = "container:ScehemesExampleiOS.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C903BF7423CF93B200D6CA0E"
-            BuildableName = "ScehemesExampleiOS.app"
+            BuildableName = "Release.app"
             BlueprintName = "ScehemesExampleiOS"
             ReferencedContainer = "container:ScehemesExampleiOS.xcodeproj">
          </BuildableReference>
