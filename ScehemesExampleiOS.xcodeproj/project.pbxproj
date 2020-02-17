@@ -315,6 +315,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.demirciy.ScehemesExampleiOS;
 				PRODUCT_NAME = Release;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = RELEASE;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -389,6 +390,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.demirciy.ScehemesExampleiOS.test;
 				PRODUCT_NAME = Test;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = TEST;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
